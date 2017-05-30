@@ -35,7 +35,6 @@ Stated project is an Task tracking and assignment system.
    
    4. After testing is done, User Clicks Test Complete and the Item moves to Completed  Column if User Clicks Back to Dev  Task will go back to Development Column
    
-### Note : It is not responsive
 
 ## Image
 
